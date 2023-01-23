@@ -19,8 +19,10 @@
 @include-when-export url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
-    --text-color: rgba(255, 255, 255, 0.75);
-    --bg-color: rgb(26, 26, 26);
+    /* --text-color: rgba(255, 255, 255, 0.75); */
+    --text-color: rgba(255, 255, 255, 0.69);
+    /* --bg-color: rgb(26, 26, 26); */
+    --bg-color: rgb(41, 40, 40);
     --control-text-color: var(--text-color);
     --meta-content-color: var(--text-color);
     --active-file-border-color: var(--drake-accent);
@@ -34,7 +36,8 @@
     --side-bar-bg-color: var(--bg-color);
     --search-select-bg-color: #ffffff;
     --search-select-text-color: var(--bg-color);
-    --select-text-bg-color: #3473B068;
+    /* --select-text-bg-color: #3473B068; */
+    --select-text-bg-color: #aeaeae68;
     --window-border: 1px solid #282828;
 
     --drake-accent: #42B883;
@@ -232,7 +235,8 @@ pre.md-fences-advanced.md-focus .md-fences-adv-panel {
     font-size: 0.9em;
     margin: 0px 0.1em;
     color: rgb(254 169 99);
-    background-color: #2F2F2F;
+    /* background-color: #2F2F2F; */
+    background-color: #333333;
     padding: 0.1em 0.5em;
     border-radius: 4px;
 }
@@ -362,9 +366,8 @@ h3.md-focus:before, h4.md-focus:before, h5.md-focus:before, h6.md-focus:before {
 }
 
 h1 {
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 0;
+    font-size: 2.4rem;
+    margin-top: 1.8rem;
 }
 
 h2 {
