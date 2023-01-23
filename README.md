@@ -1,0 +1,4 @@
+# Typora-DrakeVue3-Gruvbox
+> Typora Theme Drake-Vue3 &amp; Gruvbox
+Typora 主题：基于 [Drake](https://github.com/liangjingkanji/DrakeTyporaTheme) - Vue3 和 𝐆𝐫𝐮𝐯𝐛𝐨𝐱 风格
+安装方法：将项目根目录全部内容 copy 到 Typora 文件夹中。
